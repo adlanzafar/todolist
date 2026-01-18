@@ -1,5 +1,9 @@
 ---
-Preview Aplikasi
+<div align="center">
 
-![Tampilan Aplikasi](screenshots/ui.jpg)
+### Preview Aplikasi
+
+<img src="screenshots/ui.jpg" width="300">
+
+</div>
 ---
