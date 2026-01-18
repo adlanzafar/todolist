@@ -1,10 +1,5 @@
 ---
-
 Preview Aplikasi
 
-
-
-!\[Preview Aplikasi](ui.jpg)
-
+![Tampilan Aplikasi](screenshots/ui.jpg)
 ---
-
